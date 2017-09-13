@@ -10,7 +10,10 @@
 
   {% for node in pages %}
     <li>
-      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}" onclick="window.location.reload(true);">{{ node.title }}</a>
     </li>
   {% endfor %}
+
+  <a class="link-en" href="{{ site.baseurl_root }}{{ page.url }}" onclick="window.location.reload(true);">en</a>
+  <a class="link-fr" href="{{ site.baseurl_root }}/fr{{ page.url }}" onclick="window.location.reload(true);">fr</a>
 </ul>

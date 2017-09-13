@@ -4,6 +4,9 @@
 
 title: IDEP Partners Toolkit
 
+# Languages
+languages: ["en", "fr"]
+
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
 # url: https://uclalibrary.github.io
 
@@ -95,6 +98,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-multiple-languages-plugin
 
 exclude:
   - README.md
