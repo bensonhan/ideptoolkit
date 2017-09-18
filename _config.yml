@@ -19,8 +19,7 @@ tagline: A guide to standards and workflows for IDEP partner institutions.
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
-  A guide to standards and workflows for IDEP partner institutions.
+description: A guide to standards and workflows for IDEP partner institutions.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -28,7 +27,7 @@ author:
   email: <dlp@library.ucla.edu>
 
 # Fallback image and color
-image: ./assets/img/nav.jpg
+image: '/ideptoolkit/assets/img/nav.jpg/'
 color: '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
