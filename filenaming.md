@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titles.filenaming
+title: File Naming & Organization
 menu: true
 order: 1
 ---
