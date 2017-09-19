@@ -1,8 +1,8 @@
 titles:
   filenaming: "File Naming and Organization"
   checklist: "Session Checklist (Print/Image)" 
-  digprint:
-  lacquerdisc:
-  metadata:
-  minidv:
-  terms:
+  digprint: "Digitization (Print/Image)"
+  lacquerdisc: "Lacquer Disc Transfer"
+  metadata: "Metadata Guidelines"
+  minidv: "MiniDV Transfer"
+  terms: "Descriptive Terms"

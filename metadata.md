@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Metadata Guidelines
+title: titles.metadata
 menu: true
 order: 2
 ---

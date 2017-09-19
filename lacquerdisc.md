@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lacquer Disc Transfer
+title: titles.lacquerdisc
 menu: true
 order: 7
 ---

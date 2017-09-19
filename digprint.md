@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digitization (Print/Image)
+title: titles.digprint
 menu: true
 order: 4
 ---

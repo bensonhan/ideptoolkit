@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Session Checklist (Print/Image)
+title: titles.checklist
 menu: true
 order: 5
 ---

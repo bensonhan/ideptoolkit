@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Descriptive Terms
+title: titles.terms
 menu: true
 order: 3
 ---

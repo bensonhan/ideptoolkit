@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MiniDV Transfer
+title: titles.minidv
 menu: true
 order: 6
 ---
